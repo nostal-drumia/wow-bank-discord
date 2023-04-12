@@ -25,7 +25,7 @@ The goal is to manage bank account for a guild in Wow Classic
 * got to your bank and open your bank
 * close WoW
 * got to app Wow fodler 
-* check that you have file path `WTF/Account/HORSBANK/SavedVariables/Bagnon_Forever.lua`
+* check that you have file path `WTF/Account/<account>/SavedVariables/Bagnon_Forever.lua`
 
 ### on discord server
 
