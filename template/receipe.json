@@ -1,0 +1,30 @@
+{
+  "embeds": [
+    {
+      "title": "$name",
+      "color": $webcolor,
+      "fields":[
+        {
+          "name": "Level",
+          "value": "$level",
+          "inline": true
+        },
+        {
+          "name": "Quality",
+          "value": "$quality",
+          "inline": true
+        },
+        {
+          "name": "Spell",
+          "value": "$spell",
+          "inline": true
+        },
+        {
+          "name": "Link",
+          "value": "$link",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}

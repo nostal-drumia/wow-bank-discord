@@ -1,0 +1,53 @@
+{
+  "embeds": [{
+    "color": "$webcolor",
+    "title": "New Item in bank",
+    "fields":[
+      {
+        "name": "Name",
+        "value": "$name",
+        "inline": true
+      },
+      {
+        "name": "Level",
+        "value": "$level",
+        "inline": true
+      },
+      {
+        "name": "Quality",
+        "value": "$quality",
+        "inline": true
+      },
+      {
+        "name": "Slot",
+        "value": "$slot",
+        "inline": true
+      },
+      {
+        "name": "Subclass",
+        "value": "$subclass",
+        "inline": true
+      },
+      {
+        "name": "Armor",
+        "value": "$armor",
+        "inline": true
+      },
+      {
+        "name": "Spell",
+        "value": "$spell",
+        "inline": true
+      },
+      {
+        "name": "Stats",
+        "value": "$stat",
+        "inline": true
+      },
+      {
+        "name": "Link",
+        "value": "$link",
+        "inline": true
+      }
+    ]
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "$name",
+      "color": $webcolor,
+      "fields":[
+        {
+          "name": "Link",
+          "value": "$link",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}

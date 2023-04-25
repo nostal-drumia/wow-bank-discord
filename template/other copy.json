@@ -1,0 +1,18 @@
+{
+  "embeds": [{
+    "color": "$webcolor",
+    "title": "New Item in bank",
+    "fields":[
+      {
+        "name": "Name",
+        "value": "$name",
+        "inline": true
+      },  
+      {
+        "name": "Link",
+        "value": "$link",
+        "inline": true
+      }
+    ]
+  }]
+}

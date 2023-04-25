@@ -1,0 +1,60 @@
+{
+  "embeds": [
+    { 
+      "title": "$name",
+      "color": $webcolor,
+      "fields":[
+        {
+          "name": "Level",
+          "value": "$level",
+          "inline": true
+        },
+        {
+          "name": "Quality",
+          "value": "$quality",
+          "inline": true
+        },
+        {
+          "name": "Spell",
+          "value": "$spell",
+          "inline": true
+        },
+        {
+          "name": "Slot",
+          "value": "$slot",
+          "inline": true
+        },
+        {
+          "name": "Subclass",
+          "value": "$subclass",
+          "inline": true
+        },
+        {
+          "name": "Armor",
+          "value": "$armor",
+          "inline": true
+        },
+        {
+          "name": "Spell",
+          "value": "$spell",
+          "inline": true
+        },
+        {
+          "name": "Stats",
+          "value": "$stat",
+          "inline": true
+        },
+        {
+          "name": "Damage",
+          "value": "$damage",
+          "inline": true
+        },
+        {
+          "name": "Link",
+          "value": "$link",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
