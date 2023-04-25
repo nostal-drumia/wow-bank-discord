@@ -8,6 +8,8 @@ Only for linux, if you want to use it on window you need to use WSL.
 
 * jq
 * curl
+* yq
+* pup
 
 ## Introduction
 
